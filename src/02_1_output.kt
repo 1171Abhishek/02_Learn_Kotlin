@@ -1,4 +1,4 @@
 fun main() {
-    print("Hello")   // no new line
-    println("Hello world")  // new line
+    println("Hello")  // new line
+    print("Hello world")  // no new line
 }
